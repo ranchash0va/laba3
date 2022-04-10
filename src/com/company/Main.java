@@ -28,7 +28,7 @@ public class Main {
         /**
          *22. Дана строка, изображающая целое положительное число. Вывести сумму цифр этого числа.
          */
-        String numString = "\n12345";
+        String numString = "12345";
         int sum = 0;
         int num = Integer.valueOf(numString);
 
